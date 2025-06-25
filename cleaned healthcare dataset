@@ -1,0 +1,25 @@
+,Patient_ID,Full_Name,DOB,Height_cm,Weight_kg,Smoker_Status,Allergies,Medications,Visit_Date
+1,P371,,,164,,NaN,NaN,,
+2,P505,Peter123,1975-11-30,,,Yes,NaN,,
+3,P234,Luke,1990-06-09,,71,No,,,
+4,P787,Unknown,1990-06-09,,,NaN,,,2025-03-01
+6,P760,Anna-Marie,,153,66,Yes,,Unknown,2024-10-10
+7,P407,,,,,Yes,,Aspirin,
+8,P568,,,,,Yes,,NaN,2025-03-01
+9,P423,Unknown,1980-05-12,172,,No,NaN,NaN,
+11,P869,,1990-06-09,,82,,,Aspirin,
+12,P174,Mary Jane,,,,NaN,,NaN,2024-10-10
+13,P109,Anna-Marie,,,,NaN,,,2025-03-01
+14,P569,Unknown,1980-05-12,170,80,,,,2025-03-01
+16,P736,,,NaN,,No,Penicillin,NaN,
+17,P676,Anna-Marie,1975-11-30,170,80,No,,Unknown,2024-10-10
+18,P202,Mary Jane,1990-06-09,,,No,Peanuts,Paracetamol,
+19,P175,Peter123,,,,,,,
+21,P650,Mary Jane,1990-06-09,154,,NaN,,Paracetamol,2024-10-10
+22,P318,Mary Jane,,,,No,Penicillin,,
+23,P618,Anna-Marie,,170,80,,Peanuts,NaN,
+24,P371,,1990-06-09,NaN,80,,Peanuts,Aspirin,2025-03-01
+26,P235,,,144,,No,,,2024-10-10
+27,P457,,1980-05-12,,80,,,NaN,
+28,P170,,1980-05-12,NaN,80,Yes,NaN,,
+29,P350,Peter123,1980-05-12,147,,Yes,NaN,Unknown,
